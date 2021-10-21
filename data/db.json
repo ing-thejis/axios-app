@@ -1,0 +1,48 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "name": "Frontend Dev",
+            "url": "https://career.comarch.com/files-com/file_45/frontend_blog.jpg",
+            "create_at": "Mon, sep 15"
+        },
+        {
+            "id": 2,
+            "name": "Backend Dev",
+            "url": "https://www.investsuite.com/images/64622e1c938db63f62f85a48fb15dd78/jobs-frontend-dev-2_864a70be9668e84d4aa316e8d97d1df4.jpg",
+            "create_at": "Wed, Dec 21"
+        },
+        {
+            "id": 3,
+            "name": "Designer",
+            "url": "https://image.freepik.com/free-photo/designer-work_53876-13192.jpg",
+            "create_at": "Fri, May 4"
+        },
+        {
+            "id": 4,
+            "name": "Manager",
+            "url": "https://www.im.education/blog/wp-content/uploads/2020/11/En-que-consiste-el-rol-de-Digital-Project-Manager.png",
+            "create_at": "Sat, Oct 31"
+        }
+    ],
+    "events": [
+        {
+            "id": 1,
+            "title": "Navidad",
+            "url": "https://as01.epimg.net/meristation/imagenes/2020/12/23/betech/1608737571_792192_1608737676_noticia_normal_recorte1.jpg",
+            "date": "Sat, Dec 24"
+        },
+        {
+            "id": 2,
+            "title": "Happy Brithday",
+            "url": "https://as01.epimg.net/meristation/imagenes/2019/06/17/betech/1560780580_016472_1560780748_noticia_normal_recorte1.jpg",
+            "date": "Sun, Sep 15"
+        },
+        {
+            "id": 3,
+            "title": "Love & Friendship Day",
+            "url": "https://s.calendarr.com/upload/datas/ca/rd/card-celebration-envelope-867462_c.jpg",
+            "date": "Thu, Jul 20"
+        }
+    ]
+}
